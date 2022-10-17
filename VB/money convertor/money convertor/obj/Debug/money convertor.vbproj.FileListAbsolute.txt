@@ -1,0 +1,12 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\bin\Debug\money convertor.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\bin\Debug\money convertor.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\bin\Debug\money convertor.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\bin\Debug\money convertor.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money_convertor.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\money convertor\money convertor\obj\Debug\money convertor.pdb

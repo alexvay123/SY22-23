@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\bin\Debug\lupin.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\bin\Debug\lupin.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\bin\Debug\lupin.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\bin\Debug\lupin.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\lupin\lupin\obj\Debug\lupin.pdb

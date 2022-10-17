@@ -22,6 +22,11 @@ MyGame
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:MyGame.My.Resources.Resources.bedCapture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MyGame.My.Resources.Resources.donut_circle">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -32,7 +37,22 @@ MyGame
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:MyGame.My.Resources.Resources.pixel_character">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.pixelCapture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MyGame.My.Resources.Resources.Pokemonxy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.sheepCapture">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

@@ -28,14 +28,14 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox4 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.costlabel = New System.Windows.Forms.Label()
+        Me.namelabel = New System.Windows.Forms.Label()
+        Me.yearlabel = New System.Windows.Forms.Label()
+        Me.mphlabel = New System.Windows.Forms.Label()
+        Me.bmw2000 = New System.Windows.Forms.PictureBox()
+        Me.subaru = New System.Windows.Forms.PictureBox()
+        Me.toyota = New System.Windows.Forms.PictureBox()
+        Me.ford = New System.Windows.Forms.PictureBox()
         Me.bmw = New System.Windows.Forms.PictureBox()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
@@ -74,10 +74,10 @@ Partial Class Form1
         Me.Label39 = New System.Windows.Forms.Label()
         Me.Label40 = New System.Windows.Forms.Label()
         Me.displaypicturebox = New System.Windows.Forms.PictureBox()
-        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.bmw2000, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.subaru, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.toyota, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.ford, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.bmw, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.displaypicturebox, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -85,7 +85,7 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(391, 41)
+        Me.Label1.Location = New System.Drawing.Point(637, 68)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(41, 16)
         Me.Label1.TabIndex = 5
@@ -94,7 +94,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(392, 73)
+        Me.Label2.Location = New System.Drawing.Point(638, 100)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(33, 16)
         Me.Label2.TabIndex = 6
@@ -103,7 +103,7 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(391, 57)
+        Me.Label3.Location = New System.Drawing.Point(637, 84)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(34, 16)
         Me.Label3.TabIndex = 7
@@ -111,7 +111,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(394, 12)
+        Me.Button1.Location = New System.Drawing.Point(558, 11)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 8
@@ -121,87 +121,87 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(393, 86)
+        Me.Label4.Location = New System.Drawing.Point(639, 113)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(32, 16)
         Me.Label4.TabIndex = 9
         Me.Label4.Text = "cost"
         '
-        'Label5
+        'costlabel
         '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(438, 86)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(45, 16)
-        Me.Label5.TabIndex = 10
-        Me.Label5.Text = "67,633"
+        Me.costlabel.AutoSize = True
+        Me.costlabel.Location = New System.Drawing.Point(684, 113)
+        Me.costlabel.Name = "costlabel"
+        Me.costlabel.Size = New System.Drawing.Size(0, 16)
+        Me.costlabel.TabIndex = 10
         '
-        'Label6
+        'namelabel
         '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(438, 41)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(81, 16)
-        Me.Label6.TabIndex = 11
-        Me.Label6.Text = "bmw m3 e30"
+        Me.namelabel.AutoSize = True
+        Me.namelabel.Location = New System.Drawing.Point(684, 68)
+        Me.namelabel.Name = "namelabel"
+        Me.namelabel.Size = New System.Drawing.Size(0, 16)
+        Me.namelabel.TabIndex = 11
         '
-        'Label7
+        'yearlabel
         '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(438, 57)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(35, 16)
-        Me.Label7.TabIndex = 12
-        Me.Label7.Text = "1982"
+        Me.yearlabel.AutoSize = True
+        Me.yearlabel.Location = New System.Drawing.Point(684, 84)
+        Me.yearlabel.Name = "yearlabel"
+        Me.yearlabel.Size = New System.Drawing.Size(0, 16)
+        Me.yearlabel.TabIndex = 12
         '
-        'Label8
+        'mphlabel
         '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(438, 73)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(28, 16)
-        Me.Label8.TabIndex = 13
-        Me.Label8.Text = "142"
+        Me.mphlabel.AutoSize = True
+        Me.mphlabel.Location = New System.Drawing.Point(684, 100)
+        Me.mphlabel.Name = "mphlabel"
+        Me.mphlabel.Size = New System.Drawing.Size(0, 16)
+        Me.mphlabel.TabIndex = 13
         '
-        'PictureBox5
+        'bmw2000
         '
-        Me.PictureBox5.Image = Global.cars_dex.My.Resources.Resources._2000_bmw_3_series_coupe_328ci_fq_oem_1_500
-        Me.PictureBox5.Location = New System.Drawing.Point(462, 342)
-        Me.PictureBox5.Name = "PictureBox5"
-        Me.PictureBox5.Size = New System.Drawing.Size(171, 108)
-        Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.PictureBox5.TabIndex = 4
-        Me.PictureBox5.TabStop = False
+        Me.bmw2000.Image = Global.cars_dex.My.Resources.Resources._2000_bmw_3_series_coupe_328ci_fq_oem_1_500
+        Me.bmw2000.Location = New System.Drawing.Point(735, 345)
+        Me.bmw2000.Name = "bmw2000"
+        Me.bmw2000.Size = New System.Drawing.Size(60, 57)
+        Me.bmw2000.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.bmw2000.TabIndex = 4
+        Me.bmw2000.TabStop = False
+        Me.bmw2000.Visible = False
         '
-        'PictureBox4
+        'subaru
         '
-        Me.PictureBox4.Image = Global.cars_dex.My.Resources.Resources._1984_1986_Subaru_Leone_Deluxe_sedan__2010_12_28_
-        Me.PictureBox4.Location = New System.Drawing.Point(232, 342)
-        Me.PictureBox4.Name = "PictureBox4"
-        Me.PictureBox4.Size = New System.Drawing.Size(224, 108)
-        Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox4.TabIndex = 3
-        Me.PictureBox4.TabStop = False
+        Me.subaru.Image = Global.cars_dex.My.Resources.Resources._1984_1986_Subaru_Leone_Deluxe_sedan__2010_12_28_
+        Me.subaru.Location = New System.Drawing.Point(623, 427)
+        Me.subaru.Name = "subaru"
+        Me.subaru.Size = New System.Drawing.Size(10, 39)
+        Me.subaru.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.subaru.TabIndex = 3
+        Me.subaru.TabStop = False
+        Me.subaru.Visible = False
         '
-        'PictureBox3
+        'toyota
         '
-        Me.PictureBox3.Image = Global.cars_dex.My.Resources.Resources.toyota_celica_turbo_4wd_1989jpeg_623x467
-        Me.PictureBox3.Location = New System.Drawing.Point(2, 342)
-        Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(224, 108)
-        Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.PictureBox3.TabIndex = 2
-        Me.PictureBox3.TabStop = False
+        Me.toyota.Image = Global.cars_dex.My.Resources.Resources.toyota_celica_turbo_4wd_1989jpeg_623x467
+        Me.toyota.Location = New System.Drawing.Point(666, 351)
+        Me.toyota.Name = "toyota"
+        Me.toyota.Size = New System.Drawing.Size(45, 23)
+        Me.toyota.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.toyota.TabIndex = 2
+        Me.toyota.TabStop = False
+        Me.toyota.Visible = False
         '
-        'PictureBox2
+        'ford
         '
-        Me.PictureBox2.Image = Global.cars_dex.My.Resources.Resources.car_photo_307201
-        Me.PictureBox2.Location = New System.Drawing.Point(639, 342)
-        Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(163, 107)
-        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.PictureBox2.TabIndex = 1
-        Me.PictureBox2.TabStop = False
+        Me.ford.Image = Global.cars_dex.My.Resources.Resources.car_photo_307201
+        Me.ford.Location = New System.Drawing.Point(756, 415)
+        Me.ford.Name = "ford"
+        Me.ford.Size = New System.Drawing.Size(46, 34)
+        Me.ford.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.ford.TabIndex = 1
+        Me.ford.TabStop = False
+        Me.ford.Visible = False
         '
         'bmw
         '
@@ -212,6 +212,7 @@ Partial Class Form1
         Me.bmw.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.bmw.TabIndex = 0
         Me.bmw.TabStop = False
+        Me.bmw.Visible = False
         '
         'Label9
         '
@@ -279,20 +280,20 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(475, 12)
+        Me.Button2.Location = New System.Drawing.Point(639, 40)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 22
-        Me.Button2.Text = "Button2"
+        Me.Button2.Text = "ford"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(558, 12)
+        Me.Button3.Location = New System.Drawing.Point(720, 40)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 23
-        Me.Button3.Text = "Button3"
+        Me.Button3.Text = "Bmw 2"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Label17
@@ -421,7 +422,7 @@ Partial Class Form1
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(75, 23)
         Me.Button4.TabIndex = 39
-        Me.Button4.Text = "Button4"
+        Me.Button4.Text = "subaru"
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Label32
@@ -438,7 +439,7 @@ Partial Class Form1
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(75, 23)
         Me.Button5.TabIndex = 41
-        Me.Button5.Text = "Button5"
+        Me.Button5.Text = "toyota"
         Me.Button5.UseVisualStyleBackColor = True
         '
         'Label33
@@ -507,9 +508,10 @@ Partial Class Form1
         '
         'displaypicturebox
         '
-        Me.displaypicturebox.Location = New System.Drawing.Point(20, 21)
+        Me.displaypicturebox.Location = New System.Drawing.Point(12, 70)
         Me.displaypicturebox.Name = "displaypicturebox"
-        Me.displaypicturebox.Size = New System.Drawing.Size(358, 258)
+        Me.displaypicturebox.Size = New System.Drawing.Size(591, 379)
+        Me.displaypicturebox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.displaypicturebox.TabIndex = 50
         Me.displaypicturebox.TabStop = False
         '
@@ -555,26 +557,26 @@ Partial Class Form1
         Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.mphlabel)
+        Me.Controls.Add(Me.yearlabel)
+        Me.Controls.Add(Me.namelabel)
+        Me.Controls.Add(Me.costlabel)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.PictureBox5)
-        Me.Controls.Add(Me.PictureBox4)
-        Me.Controls.Add(Me.PictureBox3)
-        Me.Controls.Add(Me.PictureBox2)
+        Me.Controls.Add(Me.bmw2000)
+        Me.Controls.Add(Me.subaru)
+        Me.Controls.Add(Me.toyota)
+        Me.Controls.Add(Me.ford)
         Me.Controls.Add(Me.bmw)
         Me.Name = "Form1"
         Me.Text = "Form1"
-        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.bmw2000, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.subaru, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.toyota, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.ford, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.bmw, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.displaypicturebox, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
@@ -583,19 +585,19 @@ Partial Class Form1
     End Sub
 
     Friend WithEvents bmw As PictureBox
-    Friend WithEvents PictureBox2 As PictureBox
-    Friend WithEvents PictureBox3 As PictureBox
-    Friend WithEvents PictureBox4 As PictureBox
-    Friend WithEvents PictureBox5 As PictureBox
+    Friend WithEvents ford As PictureBox
+    Friend WithEvents toyota As PictureBox
+    Friend WithEvents subaru As PictureBox
+    Friend WithEvents bmw2000 As PictureBox
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents Button1 As Button
     Friend WithEvents Label4 As Label
-    Friend WithEvents Label5 As Label
-    Friend WithEvents Label6 As Label
-    Friend WithEvents Label7 As Label
-    Friend WithEvents Label8 As Label
+    Friend WithEvents costlabel As Label
+    Friend WithEvents namelabel As Label
+    Friend WithEvents yearlabel As Label
+    Friend WithEvents mphlabel As Label
     Friend WithEvents Label9 As Label
     Friend WithEvents Label10 As Label
     Friend WithEvents Label11 As Label

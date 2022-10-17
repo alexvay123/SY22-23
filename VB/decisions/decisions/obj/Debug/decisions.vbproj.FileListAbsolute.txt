@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\bin\Debug\decisions.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\bin\Debug\decisions.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\bin\Debug\decisions.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\bin\Debug\decisions.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\decisions\decisions\obj\Debug\decisions.pdb

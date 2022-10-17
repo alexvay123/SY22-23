@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\bin\Debug\new project.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\bin\Debug\new project.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\bin\Debug\new project.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\bin\Debug\new project.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new_project.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new_project.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\new project\new project\obj\Debug\new project.pdb

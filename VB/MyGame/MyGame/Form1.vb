@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-    Const Speed As Integer = 10
+    Const Speed As Integer = 20
     Dim direction As Point
 
     'This is where you can handle any collisions in the game
@@ -25,7 +25,9 @@
                 Remove(p1)
             End If
         End If
-
+        If p1.Name = "Player" And p2.Name.ToUpper.StartsWith("TARGET") Then
+            Me.BackColor = Color.Green
+        End If
         'Anything that runs into a wall will stop
         If p2.Name.ToUpper.StartsWith("WALL") Then
             Return False 'don't let anything through walls
@@ -61,7 +63,7 @@
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
         '   AddAt(BulletPictureBox2, New Point(0, 0), "CHASE")
         'AddAt(BulletPictureBox2, New Point(10, 5), "FOLLOW")
-        AddAt(BulletPictureBox2, New Point(5, 15), "RANDOM")
+        AddAt(BulletPictureBox2, New Point(5, 15), "CHASE")
     End Sub
 
 
@@ -70,4 +72,25 @@
         UpdateGame()
     End Sub
 
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Me.BackColor = Color.Black
+    End Sub
+
+    Private Sub PictureBox12_Click(sender As Object, e As EventArgs) Handles Wall2.Click
+    End Sub
+
+    Private Sub BulletPictureBox2_Click(sender As Object, e As EventArgs) Handles BulletPictureBox2.Click
+
+    End Sub
+
+    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles Wall8.Click
+
+
+
+
+    End Sub
+
+    Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles Wall6.Click
+
+    End Sub
 End Class

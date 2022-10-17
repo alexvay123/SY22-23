@@ -1,0 +1,15 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\bin\Debug\multiform.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\bin\Debug\multiform.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\bin\Debug\multiform.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\bin\Debug\multiform.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.Form2.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\multiform\multiform\obj\Debug\multiform.Form3.resources

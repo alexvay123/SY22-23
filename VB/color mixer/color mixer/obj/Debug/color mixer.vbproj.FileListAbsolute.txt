@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\bin\Debug\color mixer.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\bin\Debug\color mixer.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\bin\Debug\color mixer.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\bin\Debug\color mixer.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color_mixer.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color_mixer.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\color mixer\color mixer\obj\Debug\color mixer.pdb

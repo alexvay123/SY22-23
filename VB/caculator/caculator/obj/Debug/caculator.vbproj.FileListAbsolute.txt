@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\bin\Debug\caculator.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\bin\Debug\caculator.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\caculator\caculator\obj\Debug\caculator.pdb

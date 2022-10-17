@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip_caculator.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip_caculator.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\bin\Debug\tip caculator.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\bin\Debug\tip caculator.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\bin\Debug\tip caculator.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\bin\Debug\tip caculator.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\tip caculator\tip caculator\obj\Debug\tip caculator.pdb

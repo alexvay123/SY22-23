@@ -1,0 +1,13 @@
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.vbproj.AssemblyReference.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.vbproj.SuggestedBindingRedirects.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars_dex.Form1.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars_dex.Resources.resources
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.vbproj.GenerateResource.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.vbproj.CoreCompileInputs.cache
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\bin\Debug\cars dex.exe.config
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\bin\Debug\cars dex.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\bin\Debug\cars dex.pdb
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\bin\Debug\cars dex.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.exe
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.xml
+C:\Users\asvay820\Documents\Visual Studio 2022\SY22-23\VB\cars dex\cars dex\obj\Debug\cars dex.pdb
